@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Anton.
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning Front End Development.
-- 📫 How to reach me: anton.janzon@medieinstituet.se
+- 📫 How to reach me: antonjanzon123@gmail.com
 
 ## Skills
 

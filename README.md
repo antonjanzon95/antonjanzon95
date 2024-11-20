@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anton.
 - 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning Front End Development.
+- 🌱 I’m currently working as a software developer.
 - 📫 How to reach me: antonjanzon123@gmail.com
 
 ## Skills
